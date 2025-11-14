@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "mongoose": "^8.19.3"
+  },
+  "name": "joseph-were-website-",
+  "version": "1.0.0",
+  "description": "This repository is deploy-ready for **Vercel**. It contains:",
+  "main": "cloudinaryConfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldedgelabs/Joseph-Were-Website-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/goldedgelabs/Joseph-Were-Website-/issues"
+  },
+  "homepage": "https://github.com/goldedgelabs/Joseph-Were-Website-#readme"
+}
